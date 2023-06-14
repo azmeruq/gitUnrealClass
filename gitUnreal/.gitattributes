@@ -1,0 +1,4 @@
+# Unreal Engine file types.
+Content/** filter=lfs diff=lfs merge=lfs -text
+
+
